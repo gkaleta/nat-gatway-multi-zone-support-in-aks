@@ -1,5 +1,5 @@
 # Quick n' dirty way to run a NAT Gateway - one per AZ/Nodepool in AKS 
-### How to run NAT Gateway with AZ's in AKS
+## How to run NAT Gateway with AZ's in AKS
 
 
 ### Create first NAT gateway and subnet
